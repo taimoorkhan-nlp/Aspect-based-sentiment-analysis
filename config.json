@@ -1,0 +1,12 @@
+{
+	"numTopics": 10,
+	"numAlpha": 1.0,
+	"numBeta": 0.01,
+	"numGSIterations": 1000,
+	"numNBurnin": 50,
+	"numSampleLag": 20,
+	"wordsPerTopic": 30,
+	"text-doc-path": "data/dataset.csv",
+	"integer-encoded-doc-path": "data/integer-encoded-data.txt",
+	"integer-word-dict": "data/revdictionary.json"
+}
