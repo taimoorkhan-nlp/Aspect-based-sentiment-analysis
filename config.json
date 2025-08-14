@@ -5,8 +5,10 @@
 	"numGSIterations": 1000,
 	"numNBurnin": 50,
 	"numSampleLag": 20,
-	"wordsPerTopic": 30,
-	"text-doc-path": "data/dataset.csv",
+	"wordsPerTopic": 15,
+	"text-doc-path": "data/input_dataset.csv",
 	"integer-encoded-doc-path": "data/integer-encoded-data.txt",
-	"integer-word-dict": "data/revdictionary.json"
+	"word_integer-dict_path": "data/dictionary.json",
+	"integer-word-dict_path": "data/revdictionary.json", 
+	"output_file_path" : "data/output_absa.tsv"
 }
