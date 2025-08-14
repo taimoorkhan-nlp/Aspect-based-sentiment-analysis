@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Khan"
+  given-names: "M. Taimoor"
+  orcid: "0000-0002-6542-9217"
+title: "Aspect-based-sentiment-analysis"
+version: 1.0.0
+doi: 
+date-released: 2025-08-14
+url: "https://github.com/taimoorkhan-nlp/Aspect-based-sentiment-analysis"
